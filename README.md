@@ -13,7 +13,8 @@ Functions:
 - name the types of khinkali (/types)
 - provide a basic recipe (/recipe)
 - calculate how many calories you have consumed per meal (/calc)
-- give out the address of summer school, where this project was done and presented in Juni 2018 (/location) and khinkali restaurants in Kharkiv (/hinkalni)
-- write to the admin (/sa), if we don't know how - we use / how_sa
+- give out the address of summer school, where this project was done and presented in Juni 2018 (/location) and khinkali restaurant in Kharkiv (/hinkaliki)
+- write to the admin (/send_message_admin), if we don't know how - we use /how_send_message_admin
+aaand other cool stuff :)
 
 Also this bot can support elementary correspondence with the help of built-in intelligence, react to photos, videos and stickers in a certain way.
