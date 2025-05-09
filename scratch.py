@@ -4,7 +4,8 @@ import apiai
 import telegram
 import json
 import time
-token = '592841312:AAEuLRBVXorLpI_2rttwphQeiLon6nQ_AA'
+import os
+token = os.getenv("BOT_TOKEN")
 bot = telebot.TeleBot(token)
 
 '''
